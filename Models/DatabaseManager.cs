@@ -7,7 +7,7 @@ namespace jeu.Models
 {
     public class DatabaseManager
     {
-        private string connectionString = "Server=mysql-raydafi.alwaysdata.net;Database=raydafi_allumettes;Uid=raydafi;Pwd=Gisby@Play;";
+        private string connectionString = "Server=xxx;Database=xxx;Uid=xxx;Pwd=xxx;";
 
         public void AddPlayer(Player newPlayer)
         {
